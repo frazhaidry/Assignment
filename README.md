@@ -13,7 +13,7 @@ A simple and fun React app that fetches and displays random cat facts from a pub
 - 🎨 Clean and responsive UI using Tailwind CSS
 
 ---
-
+ 
 ## 📸 Demo
 
 ![Screenshot](./src/assets/image.png)  
